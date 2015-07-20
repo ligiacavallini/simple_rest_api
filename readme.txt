@@ -1,4 +1,4 @@
-Here is the instructions to test my assignment.
+Here is the instructions to test this simple example:
 
 I’m using MySql database with PHP PDO extension.
 The script to create the table is in the folder simplerestapi/. 
