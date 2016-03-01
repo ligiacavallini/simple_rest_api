@@ -2,7 +2,7 @@ Here is the instructions to test this simple example:
 
 I’m using MySql database with PHP PDO extension.
 The script to create the table is simplesrestapi.sql. 
-The ap is in the folder /api
+The app is in the folder /api
 You can change the database access on simplerestapi/api/App/Core/Config.php
 There is a code called test.php in the folder simplerestapi/. It consists in a simple stream_context_create, in case you need.
 The URI are:
