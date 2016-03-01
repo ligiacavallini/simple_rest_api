@@ -29,4 +29,3 @@ if there is no error, than the return will be like this:
 	"message":"[TEXT WITH THE ACTION DONE]"
 }
 
-Status API Training Shop Blog About Pricing
