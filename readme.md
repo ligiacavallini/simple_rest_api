@@ -6,6 +6,7 @@ The app is in the folder /api
 You can change the database access on simplerestapi/api/App/Core/Config.php
 There is a code called test.php in the folder simplerestapi/. It consists in a simple stream_context_create, in case you need.
 The URI are:
+
 To see all entries - to use GET method: /api/address
 To see one specific entry - to use GET method: /api/address/[the_ID]
 To insert a row - to use POST method: /api/address
