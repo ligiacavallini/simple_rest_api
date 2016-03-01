@@ -11,7 +11,7 @@ To see all entries - to use GET method: /api/address
 To see one specific entry - to use GET method: /api/address/[the_ID]
 To insert a row - to use POST method: /api/address
 To update a row - to use PUT or POST method: /api/address/[the_ID]
-TO delete a row - to use DELETE method: /api/address/[the_ID]
+To delete a row - to use DELETE method: /api/address/[the_ID]
 
 ON CRUD
 If some error occur, it will be returned like this:
